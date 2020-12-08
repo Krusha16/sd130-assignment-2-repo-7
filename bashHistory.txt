@@ -1,0 +1,32 @@
+  547  git clone https://github.com/Krusha16/sd130-assignment-2-repo-7.git
+  548  git status
+  549  git init
+  550  ls
+  551  git branch
+  552  git branch -M main
+  553  ls
+  554  cd sd130-assignment-2-repo-7/
+  555  ls
+  556  git push
+  557  git branch issue-3
+  558  git push
+  559  git checkout issue-3
+  560  code .
+  561  git status
+  562  git add .
+  563  git commit -m "performe all changes outlined in issue3"
+  564  git branch
+  565  git switch main
+  566  git merge issue-3
+  567  git push 
+  568  git pull
+  569  git checkout -b Krusha16-main main
+  570  git pull https://github.com/Krusha16/sd130-assignment-2-repo-7.git main
+  571  git checkout main
+  572  git merge --no-ff Krusha16-main
+  573  git push origin main
+  574  git checkout -b Krusha16-main main
+  575  git pull https://github.com/Krusha16/sd130-assignment-2-repo-7.git main
+  576  code .
+  577  git checkout main
+  578  history >> bashHistory.txt
