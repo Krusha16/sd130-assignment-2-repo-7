@@ -1,0 +1,6 @@
+h1, h3 {
+   /* Override the colour of the headings to a new colour of your choice.*/
+    color: red;
+    /*Override the the heading fonts to a new font of your choice*/
+    font-family: 'Courier New', Courier, monospace;
+}
